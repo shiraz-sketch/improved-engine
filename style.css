@@ -1,0 +1,328 @@
+*{
+    margin: 0px;
+    border: border-box;
+    font-family: 'Epilogue', sans-serif;
+    border-style: none;
+}
+#upper{
+    height: 27px;
+    width: 1080px;
+    background-color: #ffffff;
+    display: flex;
+    color: #333333;
+    padding-top: 10px;
+    font-size: 12px;
+    border: 1px solid;
+    
+}
+#my{
+    height: 12px;
+    width: 13px;
+    padding-top: 9px;
+}
+#us{
+    padding-left: 10px;
+}
+#About{
+padding-left: 30px;
+}
+#the{
+    margin-left: 200px;
+    display: flex;
+    margin-top: -11px;
+}
+#mys{
+    height: 15px;
+    padding-top: 35px;
+    border-style: none;
+}
+#Log{
+    padding-left: 100px;
+    padding-bottom: 3px;
+}
+#navbar{
+    background-color: #142165;
+    height: 55px;
+    width: 1416px;
+    display: flex;
+    color: white;
+    font-size: 12px;
+}
+#logo{
+    height: 45px;
+    width: 254px;
+    padding-left: 20px;
+}
+#HOME{
+    padding-top: 20px;
+    padding-left: 90px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+#PRODUCTS{
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+#nav-search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -45px;
+    border-style: none;
+    margin-left: 470px;
+    font-weight: bold;
+}
+#icon{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: #333333;
+    margin-top: -32px;
+    border-radius: 50px;
+    height: 36px;
+    width: 36px;
+    margin-left: 820px;
+    background-color: white; 
+}
+#search{
+    height: 30px;
+    border-radius: 50px;
+    padding-left: 6px;
+    border-style: none;
+}
+#cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 890px;
+    margin-top: -35px;
+    height:36px ;
+    width: 36px;
+    border-radius: 50px;
+    background-color: white;
+}
+#cover{
+    width: 1420px;
+    height: 472px;
+}
+#back{
+    width:1000px ;
+    height: 350px;
+}
+#mirroless{
+    height: 33px;
+    width: 1140px;
+}
+#cam{
+    width: 1170px;
+    height: 240px;
+    margin-top: -80px;
+    display: inline-block;
+}
+.lens{
+    display: inline-block;
+}
+#camera{
+    height: 240px;
+    width: 300px;
+}
+#apparture{
+    height: 240px;
+    width: 300px;
+    padding-left:40px ;
+}
+#tripod{
+    height: 240px;
+    width: 300px;
+    padding-left: 40px;
+}
+#less{
+    text-align: center;
+    padding-top: 30px;
+    color: #142165;
+    font-size: 24px;
+}
+#product{
+    display: inline-block;
+    width: 1000px;
+}
+#body{
+    height: 260px;
+    width: 260px;
+}
+#iii{
+    height: 260px;
+    width: 260px;
+    padding-left: 50px;
+}
+#c{
+    height: 260px;
+    width: 260px;
+    padding-left: 60px;
+}
+.alpha{
+    display: inline-block;
+}
+#space{
+    height: 30px;
+    width: 1416px;
+}
+#footer{
+    width: 1416px;
+    height: 400px;
+    display: flex;
+    background-color: #f5f7fA;
+}
+.col{
+    width: 292px;
+    height: 150px;
+    margin-left: 40px;
+    margin-top: 60px;
+    
+}
+#contact{
+    color: #142165;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.details{
+    font-size: 13px;
+    color: #333333;
+    font-family: 'Epilogue', sans-serif;
+
+}
+#phone{
+padding-left: 5px;
+padding-top: 10px;
+}
+#email{
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+#pro{
+    padding-bottom: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 20px;
+    color: #142165;
+}
+#new{
+    font-size: 16px;
+    color: #142165;
+    font-weight: 600;
+}
+#method{
+    font-size: 12px;
+    padding-top: 28px;
+}
+#in{
+    width: 292px;
+    height: 150px;
+    margin-top: 60px; 
+    margin-left: -70px;
+}
+
+#touch{
+    font-size: 16px;
+    color: #142165;
+    font-weight: 600;
+}
+#stay{
+    margin-left: -100px;
+    width: 242px;
+    height: 192px;
+    margin-top: 63px;
+}
+#address{
+    margin-top: 20px;
+    height: 35px;
+    width: 160px;
+    border-style: none;
+    text-align: center;
+}
+#subscribe{
+    height: 35px;
+    width: 162px;
+    color: #ffffff;
+    background-color: #142165;
+    margin-top: 5px;
+}
+#insta i{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+#whatsapp i{
+    padding-left: 10px;
+}
+#facebook i{
+    padding-left: 10px;
+}
+#footer-end{
+    height: 60px;
+    width: 1245px;
+    background-color: #000000;
+    display: flex;
+}
+#copyright{
+    color: #ffffff;
+font-size: 13px;
+padding-top: 20px;
+padding-left: 30px;
+height: 40px;
+width: 294px;
+background-color: #000000;
+}
+#card{
+    height: 33px;
+    width: 390
+    px;
+    background-color: #000000;
+    display: flex;
+    height: 30px;
+    width: 48px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#payment{
+    width: 48px;
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 23px;
+}
+#master{
+    width: 48px;
+    height: 30px;
+    padding-left: 3px;
+    padding-top: 23px;
+}
+#visa{
+    width: 48px;
+    height: 30px;
+    padding-top: 23px;
+    padding-left: 3px;
+}
+#paypal{
+    width: 48px;
+    height: 30px;
+padding-top: 23px;
+padding-left: 3px;
+}
+#google{
+    width: 48px;
+    height: 30px;
+    padding-top: 23px;
+    padding-left: 3px;
+}
+#name{
+    color: #ffffff;
+    padding-left: 400px;
+    padding-top: 23px;
+    font-size: 13px;
+    
+}
+
